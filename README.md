@@ -1,5 +1,7 @@
 # sa_courses_ms
 
+Software Architecture course, Lab#3
+
 Microservice for Courses
 
 * Ruby
